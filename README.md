@@ -8,3 +8,7 @@ In der lokalen Entwicklungsumgebung können Sie Umgebungsvariablen direkt setzen
 Berücksichtigung der Supply Chain Security
 Verwendung vertrauenswürdiger Abhängigkeiten:
 Achten Sie darauf, dass alle Ihre Abhängigkeiten, wie Flask und andere Python-Bibliotheken, aus sicheren und vertrauenswürdigen Quellen stammen. Führen Sie regelmäßig Sicherheitsüberprüfungen durch und aktualisieren Sie Ihre Abhängigkeiten entsprechend.
+
+Team 11 
+Saman Jooya
+Alexander Schottleitner
