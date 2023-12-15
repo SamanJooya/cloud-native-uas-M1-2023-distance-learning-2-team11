@@ -10,6 +10,16 @@ In unserer lokalen Entwicklungsumgebung setzen wir Umgebungsvariablen entweder d
 Wir legen großen Wert darauf, dass all unsere Abhängigkeiten, wie Flask und andere Python-Bibliotheken, aus sicheren und vertrauenswürdigen Quellen stammen. Die regelmäßige Durchführung von Sicherheitsüberprüfungen und das entsprechende Aktualisieren von Abhängigkeiten sind für uns essenziell, um die Sicherheit und Integrität unserer Anwendung zu gewährleisten.<br>
 
 
+**Docker-Image bauen**
+```bash
+docker build -t name-des-images .
+```
+
+**Docker-Container starten**
+```bash
+docker run -p 8080:8080 name-des-images
+```
+
 Team 11 <br>
 Saman Jooya<br>
 Alexander Schottleitner
